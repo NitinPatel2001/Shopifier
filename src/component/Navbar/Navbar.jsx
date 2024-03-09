@@ -1,6 +1,6 @@
 import { Fragment, useEffect, useState, useContext, useCallback } from 'react'
 import { Dialog, Disclosure, Popover, Transition } from '@headlessui/react'
-import { motion } from "framer-motion"
+
 import {
   Bars3Icon,
   XMarkIcon,

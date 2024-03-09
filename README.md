@@ -29,10 +29,10 @@ Hope You Love it !! ❤️
 ![Screen3](./Screenshot/AllProduct.png)
 ![Screen3](./Screenshot/AddProduct.png)
 ![Screen3](./Screenshot/Men_Cat.png)
-![Screen3](./Screenshot/MobileFront.png)
-![Screen3](./Screenshot/Mobile_Cat.png)
-![Screen3](./Screenshot/Mobile%20Footer.png)
-![Screen3](./Screenshot/Tablet.png)
+<img src="./Screenshot/MobileFront.png" alt="Mobile Front" width="200"/>
+<img src="./Screenshot/Mobile_Cat.png" alt="Mobile Front" width="200"/>
+<img src="./Screenshot/Mobile Footer.png" alt="Mobile Front" width="200"/>
+<img src="./Screenshot/Tablet.png" alt="Mobile Front" width="400"/>
 
 ## Technologies
 
